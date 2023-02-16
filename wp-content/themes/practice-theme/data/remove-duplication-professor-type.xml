@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2023-02-15 09:21" -->
+	<!-- generator="WordPress/6.1.1" created="2023-02-16 10:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WordPress Practice</title>
 	<link>http://localhost/fictional-university</link>
 	<description></description>
-	<pubDate>Wed, 15 Feb 2023 09:21:03 +0000</pubDate>
+	<pubDate>Thu, 16 Feb 2023 10:18:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/fictional-university</wp:base_site_url>
@@ -67,106 +67,6 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 		<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>http://localhost/fictional-university/?page_id=2</link>
-		<pubDate>Wed, 01 Feb 2023 13:47:03 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/project-01/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://localhost/project-01/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2023-02-01 13:47:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-02-01 13:47:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-01 13:47:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-01 13:47:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>http://localhost/fictional-university/?page_id=3</link>
-		<pubDate>Wed, 01 Feb 2023 13:47:03 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/project-01/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost/project-01.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where your data is sent</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2023-02-01 13:47:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-02-01 13:47:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-01 13:47:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-01 13:47:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Page Test 01]]></title>
-		<link>http://localhost/fictional-university/?page_id=9</link>
-		<pubDate>Thu, 02 Feb 2023 09:30:17 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/project-01/?page_id=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is first sample page</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2023-02-02 09:30:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-02-02 09:30:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-02 09:30:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-02 09:30:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[page-test-01]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Math Meetup]]></title>
 		<link>http://localhost/fictional-university/?event=math-meetup</link>
 		<pubDate>Fri, 03 Feb 2023 10:02:53 +0000</pubDate>
@@ -628,13 +528,13 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=acf-field-group&#038;p=68</guid>
 		<description></description>
-		<content:encoded><![CDATA[a:8:{s:8:"location";a:1:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:9:"professor";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
+		<content:encoded><![CDATA[a:8:{s:8:"location";a:2:{i:0;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"==";s:5:"value";s:9:"professor";}}i:1;a:1:{i:0;a:3:{s:5:"param";s:9:"post_type";s:8:"operator";s:2:"!=";s:5:"value";s:9:"professor";}}}s:8:"position";s:6:"normal";s:5:"style";s:7:"default";s:15:"label_placement";s:3:"top";s:21:"instruction_placement";s:5:"label";s:14:"hide_on_screen";s:0:"";s:11:"description";s:0:"";s:12:"show_in_rest";i:0;}]]></content:encoded>
 		<excerpt:encoded><![CDATA[page-banner]]></excerpt:encoded>
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2023-02-15 07:45:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-02-15 07:45:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-15 09:04:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-15 09:04:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-15 09:35:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-15 09:35:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[group_63ec8cc55f6c6]]></wp:post_name>
@@ -731,6 +631,131 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Test Even]]></title>
+		<link>http://localhost/fictional-university/?post_type=event&#038;p=84</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=event&#038;p=84</guid>
+		<description></description>
+		<content:encoded><![CDATA[Test event Text]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-16 09:15:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-16 09:15:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-16 09:15:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[event]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Test Event]]></title>
+		<link>http://localhost/fictional-university/?event=test-event</link>
+		<pubDate>Thu, 16 Feb 2023 09:19:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=event&#038;p=85</guid>
+		<description></description>
+		<content:encoded><![CDATA[Test Event contents]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>85</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-16 09:19:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-16 09:19:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-16 09:19:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-16 09:19:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[test-event]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[event]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[event_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20230224]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_event_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63dd121fc4621]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63dd123cc4622]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[related_programs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:2:"52";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_related_programs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63eb4d5912b86]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_banner_subtitle]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Poetry post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_banner_subtitle]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63ec8cc5f26e4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_banner_background_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_banner_background_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63ec8d0cf26e5]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[notebook]]></title>
+		<link>http://localhost/fictional-university/?attachment_id=87</link>
+		<pubDate>Thu, 16 Feb 2023 09:46:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/fictional-university/wp-content/uploads/2023/02/notebook.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-16 09:46:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-16 09:46:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-16 09:46:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-16 09:46:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[notebook]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>86</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/fictional-university/wp-content/uploads/2023/02/notebook-scaled.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/02/notebook-scaled.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1922;s:4:"file";s:27:"2023/02/notebook-scaled.jpg";s:8:"filesize";i:331467;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:20:"notebook-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9942;}s:5:"large";a:5:{s:4:"file";s:21:"notebook-1024x769.jpg";s:5:"width";i:1024;s:6:"height";i:769;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59040;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"notebook-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4568;}s:12:"medium_large";a:5:{s:4:"file";s:20:"notebook-768x577.jpg";s:5:"width";i:768;s:6:"height";i:577;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38126;}s:9:"1536x1536";a:5:{s:4:"file";s:22:"notebook-1536x1153.jpg";s:5:"width";i:1536;s:6:"height";i:1153;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:114790;}s:9:"2048x2048";a:5:{s:4:"file";s:22:"notebook-2048x1538.jpg";s:5:"width";i:2048;s:6:"height";i:1538;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:200685;}s:18:"professorLandscape";a:5:{s:4:"file";s:20:"notebook-400x260.jpg";s:5:"width";i:400;s:6:"height";i:260;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13681;}s:17:"professorPortrait";a:5:{s:4:"file";s:20:"notebook-480x650.jpg";s:5:"width";i:480;s:6:"height";i:650;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25595;}s:10:"pageBanner";a:5:{s:4:"file";s:21:"notebook-1500x350.jpg";s:5:"width";i:1500;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35332;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:12:"notebook.jpg";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Hello world!]]></title>
 		<link>http://localhost/fictional-university/?p=1</link>
 		<pubDate>Wed, 01 Feb 2023 13:47:03 +0000</pubDate>
@@ -773,6 +798,80 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>http://localhost/fictional-university/?page_id=2</link>
+		<pubDate>Wed, 01 Feb 2023 13:47:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/project-01/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://localhost/project-01/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-01 13:47:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-01 13:47:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-01 13:47:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-01 13:47:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>http://localhost/fictional-university/?page_id=3</link>
+		<pubDate>Wed, 01 Feb 2023 13:47:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/project-01/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost/project-01.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where your data is sent</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-01 13:47:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-01 13:47:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-01 13:47:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-01 13:47:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[First Post]]></title>
 		<link>http://localhost/fictional-university/?p=5</link>
@@ -828,6 +927,32 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						</item>
 					<item>
+		<title><![CDATA[Page Test 01]]></title>
+		<link>http://localhost/fictional-university/?page_id=9</link>
+		<pubDate>Thu, 02 Feb 2023 09:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/project-01/?page_id=9</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is first sample page</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-02 09:30:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-02 09:30:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-02 09:30:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-02 09:30:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-test-01]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[About Us]]></title>
 		<link>http://localhost/fictional-university/?page_id=11</link>
 		<pubDate>Thu, 02 Feb 2023 13:15:50 +0000</pubDate>
@@ -841,8 +966,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2023-02-02 13:15:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-02-02 13:15:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-06 11:02:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-06 11:02:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-02-15 09:38:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-15 09:38:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -852,7 +977,27 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_banner_subtitle]]></wp:meta_key>
+		<wp:meta_value><![CDATA[We are a great school that has been around for a long time.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_banner_subtitle]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63ec8cc5f26e4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_banner_background_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_banner_background_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63ec8d0cf26e5]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Our Goals]]></title>
 		<link>http://localhost/fictional-university/?page_id=13</link>
@@ -1083,84 +1228,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Biology]]></title>
-		<link>http://localhost/fictional-university/?program=biology</link>
-		<pubDate>Tue, 14 Feb 2023 07:37:15 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=program&#038;p=51</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2023-02-14 07:37:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-02-14 07:37:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-14 07:37:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-14 07:37:15]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[biology]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[program]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[English]]></title>
-		<link>http://localhost/fictional-university/?program=english</link>
-		<pubDate>Tue, 14 Feb 2023 07:37:36 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=program&#038;p=52</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2023-02-14 07:37:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-02-14 07:37:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-14 07:37:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-14 07:37:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[english]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[program]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[New Program]]></title>
-		<link>http://localhost/fictional-university/?program=new-program</link>
-		<pubDate>Tue, 14 Feb 2023 11:14:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=program&#038;p=59</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>59</wp:post_id>
-		<wp:post_date><![CDATA[2023-02-14 11:14:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-02-14 11:14:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-02-14 11:14:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-02-14 11:14:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[new-program]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[program]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title><![CDATA[Dr. Amjad]]></title>
 		<link>http://localhost/fictional-university/?professor=dr-amjad</link>
 		<pubDate>Tue, 14 Feb 2023 14:23:41 +0000</pubDate>
@@ -1296,6 +1363,148 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:meta_value><![CDATA[field_63ec8d0cf26e5]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Test Event2]]></title>
+		<link>http://localhost/fictional-university/?event=test-event2</link>
+		<pubDate>Thu, 16 Feb 2023 09:46:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=event&#038;p=86</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-16 09:46:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-16 09:46:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-16 09:46:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-16 09:46:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[test-event2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[event]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[event_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20230228]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_event_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63dd121fc4621]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63dd123cc4622]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[related_programs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:2:"52";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_related_programs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63eb4d5912b86]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_banner_subtitle]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Banner subtitle]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_banner_subtitle]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63ec8cc5f26e4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[page_banner_background_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[87]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_page_banner_background_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[field_63ec8d0cf26e5]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Biology]]></title>
+		<link>http://localhost/fictional-university/?program=biology</link>
+		<pubDate>Tue, 14 Feb 2023 07:37:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=program&#038;p=51</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-14 07:37:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-14 07:37:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-14 07:37:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-14 07:37:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[biology]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[program]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[English]]></title>
+		<link>http://localhost/fictional-university/?program=english</link>
+		<pubDate>Tue, 14 Feb 2023 07:37:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=program&#038;p=52</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-14 07:37:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-14 07:37:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-14 07:37:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-14 07:37:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[english]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[program]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[New Program]]></title>
+		<link>http://localhost/fictional-university/?program=new-program</link>
+		<pubDate>Tue, 14 Feb 2023 11:14:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/fictional-university/?post_type=program&#038;p=59</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date><![CDATA[2023-02-14 11:14:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-02-14 11:14:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-02-14 11:14:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-02-14 11:14:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[new-program]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[program]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
 				</channel>
 </rss>
 	
